@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/vcf-gene-knockout-parser.git
+   git clone https://github.com/getovahit/VCFknockoutparser.git
    cd vcf-gene-knockout-parser
    ```
 
